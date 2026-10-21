@@ -1,4 +1,4 @@
-v# Sales Lakehouse on Databricks (Medallion Architecture)
+Sales Lakehouse on Databricks (Medallion Architecture)
 
 End-to-end data pipeline on **Databricks** using **PySpark** and **Delta Lake**, following the
 Bronze → Silver → Gold medallion architecture on the TPC-H sales dataset (7.5M orders, 750K customers).
